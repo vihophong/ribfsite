@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Phong. 
+Hi! I’m Phong, a PhD student of VNU University of Science.
 My research focus on experimental nuclear physics including nuclear structure studies and interdisciplines research topics such as nuclearastrophysics, nuclear instrumentation and Monte-carlo simulation.
 
 
