@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in VNU University of Science, 2011
+* M.S. in VNU University of Science, 2014
+* Ph.D in VNU University of Science, 2019 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2011-2014: Research and Teaching Assistant
+  * VNU University of Science
+  * Duties included: Operating the University Tandem Pelletron Accelerator.
+  * Supervisor: Dr. Nguyen The Nghia
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014 2018: Student internship (IPA)
+  * RIKEN Nishina center
+  * Duties included: Setting up three detector systems: BRIKEN, EURICA, NiGIRI. Performing data analysis.
+  * Supervisor: Dr. Shunji Nishimura
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* C++, PHP, HTML, Javascript, Visual Basic, Swift programing
+* Setting up DAQ system
 
 Publications
 ======
@@ -53,7 +50,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
