@@ -20,12 +20,12 @@ Work experience
 * 2011-2014: Research and Teaching Assistant
   * VNU University of Science
   * Duties included: Operating the University Tandem Pelletron Accelerator.
-  * Supervisor: Dr. Nguyen The Nghia
+  * Supervisor: Dr. Nguyen The Nghia, Dr. Le Hong Khiem
 
 * 2014 2018: Student internship (IPA)
   * RIKEN Nishina center
   * Duties included: Setting up three detector systems: BRIKEN, EURICA, NiGIRI. Performing data analysis.
-  * Supervisor: Dr. Shunji Nishimura
+  * Supervisor: Dr. Shunji Nishimura, Dr. Le Hong Khiem
   
 Skills
 ======
