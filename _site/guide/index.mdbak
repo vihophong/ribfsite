@@ -32,8 +32,8 @@
 <meta property="og:title" content="Guide">
 
 
-  <link rel="canonical" href="https://ribf.riken.jp/~phong/mysite/_site/_pages/markdown/">
-  <meta property="og:url" content="https://ribf.riken.jp/~phong/mysite/_site/_pages/markdown/">
+  <link rel="canonical" href="https://ribf.riken.jp/~phong/mysite/_site/guide/">
+  <meta property="og:url" content="https://ribf.riken.jp/~phong/mysite/_site/guide/">
 
 
 
@@ -275,7 +275,7 @@
       
 
       <section class="page__content" itemprop="text">
-        <p>To be updated</p>
+        To be updated
 
         
       </section>
