@@ -67,4 +67,4 @@ date: 2019-03-15
 
 - V.H Phong,  S  Nishimura,  J  Liu,  T  Lokotko,  Z  Li,  and  J  Lee.  “Beta  delayed  neutron  measurement  with  new  detector  NiGIRI”.  RIKEN  Accelerator  Progress  Report  49  (2016),  p.  169.
 
-<!-- readmore -->
+<!-- more -->
