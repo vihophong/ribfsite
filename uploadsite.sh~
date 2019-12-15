@@ -1,0 +1,1 @@
+rsync -rltDuv -e ssh NiGIRI@172.27.224.7:/home/NiGIRI/hiMAC2017/* .
