@@ -4,7 +4,6 @@ collection: publications
 date: 2019-03-15
 ---
 
-
 **SCI(E)/SCOPUS**
 - VH  Phong,  G  Lorusso,  T  Davinson,  A  Estrade,  O  Hall,  J  Liu,  K  Matsui,  F  Montes,  S  Nishimura, A  Boso,  et al. “Observation  of  a  µ  s  isomer  in  In  85  49  134:  Proton-neutron  coupling  “southeast” of  Sn  82  50  132”.  Physical  Review  C  100.1  (2019),  p.  011302.
 
@@ -49,7 +48,6 @@ date: 2019-03-15
 - P-A  Soderstrom,  PH  Regan,  PM  Walker,  H  Watanabe,  P  Doornenbal,  Z  Korkulu,  P  Lee,  HL Liu,  JJ Liu,  G Lorusso, et  al. “Heavy  rotation–evolution of quadrupole  collectivity centred at  the neutron-rich  doubly mid-shell nucleus 170Dy”. AIP  Conference Proceedings. Vol. 1681. 1. AIP Publishing.  2015,  p. 030010.
 
 **Others**
-<![endif]-->
 
 - Alfredo  Estrade,  Oscal  Hall,  Jiajian  Liu,  Giuseppe  Lorusso,  Fernando  Montes,  Vi  Phong,  Thomas Davinson,  Keishi  Matsui,  Neerajan  Nepal,  Shunji  Nishimura,  et  al.  “Beta-decay  measurement  for the  A=  130  r-process  abundance  peak”.  Bulletin  of  the  American  Physical  Society  (2019).
 
@@ -68,3 +66,5 @@ date: 2019-03-15
 - Vi  H  Phong,  Shunji  Nishimura,  Giuseppe  Lorusso,  and  Alejandro  Algora.  “Impact  of  the  β- Delayed  Neutron  Emission  Probabilities  Around  A=  100–125  on  the  r-Process  and  the  BRIKEN Project”.  Proceedings  of  the  14th  International  Symposium  on  Nuclei  in  the  Cosmos  (NIC2016). 2017, p. 020620.
 
 - V.H Phong,  S  Nishimura,  J  Liu,  T  Lokotko,  Z  Li,  and  J  Lee.  “Beta  delayed  neutron  measurement  with  new  detector  NiGIRI”.  RIKEN  Accelerator  Progress  Report  49  (2016),  p.  169.
+
+<!--more-->
