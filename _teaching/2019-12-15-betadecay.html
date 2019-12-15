@@ -109,7 +109,7 @@ location: "Universe"
                         var txt="";
                         for (i=0;i<xZ.length;i++){
                                 if (xZ[i].childNodes[0].nodeValue==lolZ&&xN[i].childNodes[0].nodeValue==lolN){
-                                txt+="T1/2 = "+xHalflife[i].childNodes[0].nodeValue+" second <br/>";
+                                txt+="T1/2 = "+xHalflife[i].childNodes[0].nodeValue+" seconds <br/>";
                                 txt+="P0n = "+xP0n[i].childNodes[0].nodeValue+"<br/>";
                                 txt+="P1n = "+xP1n[i].childNodes[0].nodeValue+"<br/>";
                                 txt+="P2n = "+xP2n[i].childNodes[0].nodeValue+"<br/>";
@@ -126,11 +126,11 @@ location: "Universe"
                          }
                         var txthead;
                         if (options=="hfb"){
-                                txthead="EDM model was chosen! <br/><br/>";
+                                txthead="EDM model<br/><br/>";
                         }else if (options=="ktuy"){
-                                txthead="KTUY-GT2 model was chosen! <br/><br/>";
+                                txthead="KTUY-GT2<br/><br/>";
                         }else{
-                                txthead="FRDM-QRPA model was chosen! <br/><br/>";
+                                txthead="FRDM-QRPA<br/><br/>";
                         }
 
                         document.getElementById("message").innerHTML = txthead+txt;
