@@ -31,7 +31,8 @@ Skills
 ======
 
 * C++, PHP, HTML, Javascript, Visual Basic, Swift programing
-* Setting up DAQ system
+* Analysis and simulation toolkits: CERN ROOT, GEANT4
+* DAQ system
 
 Publications
 ======
