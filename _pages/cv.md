@@ -51,3 +51,9 @@ Research
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Awards
+======
+
+* [2015 RIKEN summer school](http://www2.riken.jp/summerschool) : Poster award in Physics.
+* NUSYM 2019 conference: [2nd best oral presentation award from ](https://www.most.gov.vn/vn/tin-tuc/16802/hoi-nghi-quoc-te-ve-nang-luong-doi-xung-hat-nhan-2019-nusym-2019.aspx) [Asian Nuclear Physics Association (ANPhA)](https://ribf.riken.jp/ANPhA/sympo.html).
